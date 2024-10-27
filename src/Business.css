@@ -1,0 +1,26 @@
+.Business {
+    width: 300px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .Business-information {
+    padding: 10px;
+  }
+  
+  .Business-address, .Business-reviews {
+    margin-top: 10px;
+  }
+  
+  .rating {
+    color: #f39c12;
+  }
+  
